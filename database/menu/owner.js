@@ -1,4 +1,4 @@
-const owner = (prefix, ownerBot, botName) => {
+const ownermenu = (prefix, ownerBot, botName) => {
         return `
 「 *${botName}* 」
 
@@ -21,4 +21,4 @@ const owner = (prefix, ownerBot, botName) => {
   ├─ ❏ ${prefix}clone
   └─ ❏ ${prefix}clearall`
 }
-exports.owner = owner
+exports.ownermenu = ownermenu
