@@ -56,7 +56,7 @@ const { help } = require('./src/help')
 const { logomaker } = require('./database/menu/logomaker')
 const { andrinmenu } = require('./src/andrinmenu')
 const { menuadmin } = require('./src/menuadmin')
-const { nsfwmenu } = require('./src/nsfwmenu')
+/* const { nsfwmenu } = require('./src/nsfwmenu') */
 const { mediamenu } = require('./database/menu/mediamenu')
 const { educationmenu } = require('./database/menu/educationmenu')
 const { downloadermenu } = require('./database/menu/downloadermenu')
@@ -70,7 +70,7 @@ const { stalkmenu } = require('./database/menu/stalkmenu')
 const { wibumenu } = require('./database/menu/wibumenu')
 const { funmenu } = require('./database/menu/funmenu')
 const { informationmenu } = require('./database/menu/informationmenu')
-/*const { 18+menu } require('./database/menu/18+menu')*/
+/*const { 18+menu } require('./database/menu/18+menu')
 const { ownermenu } require('./database/menu/ownermenu')
 /*const { othermenu } require('./database/menu/othermenu')*/
 /******END OF MENU INPUT******/
